@@ -1,0 +1,74 @@
+<!-- updated: Urwa Zahra CV -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Urwa Zahra | Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Urwa Zahra</h1>
+        <p>Student of Software Engineering | Reg No: 2023-BSE-068</p>
+    </header>
+
+    <section class="profile">
+        <h2>About Me</h2>
+        <p>A motivated Software Engineering student passionate about learning web development and programming. 
+        Interested in exploring modern technologies and improving technical skills through hands-on projects.</p>
+    </section>
+
+    <section class="info">
+        <h2>Contact Information</h2>
+        <p><strong>Email:</strong> urwazahra@example.com</p>
+        <p><strong>GitHub:</strong> <a href="https://github.com/Urwa012" target="_blank">github.com/Urwa012</a></p>
+        <p><strong>Phone:</strong> 0332-8988702</p>
+        <p><strong>Location:</strong> Rawalpindi, Pakistan</p>
+    </section>
+
+    <section class="education">
+        <h2>Education</h2>
+        <p><strong>Bachelor of Science in Software Engineering (2023–2027)</strong></p>
+        <p>Fatima Jinnah Women University, Rawalpindi</p>
+        <p>Currently pursuing coursework in programming, web development, and database fundamentals.</p>
+    </section>
+
+    <section class="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML & CSS (basic web design)</li>
+            <li>C++ Programming</li>
+            <li>Problem Solving</li>
+            <li>Git & GitHub (version control basics)</li>
+            <li>Teamwork and Communication</li>
+        </ul>
+    </section>
+
+    <section class="projects">
+        <h2>Academic Projects</h2>
+        <ul>
+            <li><strong>Personal Portfolio Website:</strong> Created a simple webpage using HTML and CSS to showcase my profile and skills.</li>
+            <li><strong>Basic Calculator (C++):</strong> Built a console-based calculator to perform basic arithmetic operations.</li>
+            <li><strong>Student Record System (C++):</strong> Developed a small project for managing and displaying student data.</li>
+        </ul>
+    </section>
+
+    <section class="certifications">
+        <h2>Certifications</h2>
+        <ul>
+            <li>Introduction to C++ Programming (Coursera – 2024)</li>
+            <li>Basics of HTML and CSS (freeCodeCamp – 2024)</li>
+        </ul>
+    </section>
+
+    <section class="goal">
+        <h2>Career Goal</h2>
+        <p>To gain practical experience in software development and grow as a web developer by working on real-world projects and internships.</p>
+    </section>
+
+    <footer>
+        <p>© 2025 Urwa Zahra | Portfolio Website</p>
+    </footer>
+</body>
+</html>
